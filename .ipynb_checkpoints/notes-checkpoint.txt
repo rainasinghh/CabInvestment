@@ -1,0 +1,33 @@
+price charged - cost of trip = revenue for company per transaction
+	set of unique companies
+	group dataframe by company
+	for each company
+		for each data row
+			calculate revenue (price charged - cost of trip)
+			save that in some dictionary
+
+price charged to income ratio per user
+
+
+cumulative return over time
+	
+
+income => split into income buckets and do the following
+	which bucket lead to more returns?
+	which city has the larger income buckets?
+	does higher income => higher return?
+
+number of users vs population: 
+	more users => more returns
+	might be misleading because of population between 2 cities
+	maybe calculate users:population ratio
+
+city => economic differences/long term investment returns
+
+age => distribution of transactions across age
+
+date of travel => do holidays lead to more sales? if so, for which company?
+
+km traveled => higher price charged
+
+gender => who pays more--men or women?
